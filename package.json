@@ -8,7 +8,7 @@
                     "start:dev": "NODE_ENV=dev && pm2 start server.js",
                     "start:prod": "NODE_ENV=prod && pm2 start server.js"
           },
-          "author": "darcy@mediabox.bi",
+          "author": "",
           "license": "ISC",
           "dependencies": {
                     "axios": "^0.27.2",

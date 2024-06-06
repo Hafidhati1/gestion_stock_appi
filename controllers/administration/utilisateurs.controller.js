@@ -321,7 +321,6 @@ const findUtilisateur = async (req, res) => {
                     })
           }
 }
-
 module.exports = {
           cretaeUser,
           findAll,
